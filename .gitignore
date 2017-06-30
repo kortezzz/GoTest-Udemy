@@ -23,9 +23,6 @@ _testmain.go
 *.test
 *.prof
 
-# WebStorm
-*.iml
-
 # Directory-based project format:
 .idea/
 .idea/workspace.xml
